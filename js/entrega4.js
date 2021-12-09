@@ -77,7 +77,7 @@ window.onload = function(){
         var categoria = elementos[0].value;
         var tamaño = document.forms[0].size.value;
     
-        //Éstos son los checkbox
+       
         var c1 = document.getElementById("mani");
         var c2 = document.getElementById("chocolate");
         var c3 = document.getElementById("chispas");
